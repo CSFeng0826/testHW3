@@ -3,6 +3,7 @@ package main;
 public class Gift extends Decorator{
 
 	public Gift(AbstractXmasTree XmasTree) {
+		
 		super(XmasTree);
 	}
 	
